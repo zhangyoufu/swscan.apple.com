@@ -1,0 +1,17 @@
+on:
+  push:
+  schedule:
+  - cron: '10,25,40,55 * * * *'
+
+jobs:
+  cron:
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v1
+      with:
+        fetch-depth: 1
+    - run: exec .github/cron.sh
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
