@@ -2,14 +2,14 @@
 set -ex
 set -o pipefail
 
-pip3 install -r requirements.txt
-./crawl.py
+pip3 install -r .github/requirements.txt
+.github/crawl.py
 
 if [ -n "$(git status --porcelain)" ]; then
 	git config --global user.name 'GitHub Actions'
 	git config --global user.email "$(whoami)@$(hostname --fqdn)"
 	git add --all
-	git diff --cached --diff-filter=AM --name-only -z | ./parse.py
+	git diff --cached --diff-filter=AM --name-only -z | .github/parse.py
 	if [ "$(git log -1 --pretty=format:%B)" = "automatic commit" ]; then
 		git commit --amend --no-edit
 		git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:master
