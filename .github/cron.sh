@@ -11,7 +11,7 @@ if [ -n "$(git status --porcelain)" ]; then
 	git add --all
 	git diff --cached --diff-filter=AM --name-only -z | .github/parse.py
 	if [ "$(git log -1 --pretty=format:%B)" = "automatic commit" ]; then
-		git commit --amend --no-edit
+		git commit --amend --no-edit --reset-author
 		git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:master
 	else
 		git commit --message 'automatic commit'
