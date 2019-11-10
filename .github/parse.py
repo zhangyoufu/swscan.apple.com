@@ -19,6 +19,9 @@ def parse_catalog(path):
     products = catalog.pop('Products')
     assert not catalog
 
+    macOS = []
+    bridgeOS = []
+
     for product_id, product in products.items():
         if 'ExtendedMetaInfo' not in product:
             continue
@@ -30,23 +33,51 @@ def parse_catalog(path):
         product.pop('State', None) # State: ramped
         assert not product
 
-        if 'InstallAssistantPackageIdentifiers' not in extended_meta_info:
-            continue
-        ia_package_identifiers = extended_meta_info.pop('InstallAssistantPackageIdentifiers')
-        assert not extended_meta_info
-
-        assert ia_package_identifiers.pop('InstallInfo') == 'com.apple.plist.InstallInfo'
-        ia_package_identifiers.pop('OSInstall', None)
-        assert not ia_package_identifiers
-
         identifier = re.search(r'/content/downloads/\d{2}/\d{2}/[^/]*?/([0-9a-z]{34})/', server_metadata_url).group(1)
 
-        yield {
-            'Identifier': identifier,
-            'PostDate': post_date,
-            'DistributionURL': distributions['English'],
-            'Packages': packages,
-        }
+        if 'InstallAssistantPackageIdentifiers' in extended_meta_info:
+            ia_package_identifiers = extended_meta_info.pop('InstallAssistantPackageIdentifiers')
+            assert not extended_meta_info
+
+            assert ia_package_identifiers.pop('InstallInfo') == 'com.apple.plist.InstallInfo'
+            ia_package_identifiers.pop('OSInstall', None)
+            assert not ia_package_identifiers
+
+            macOS.append({
+                'Identifier': identifier,
+                'PostDate': post_date,
+                'DistributionURL': distributions['English'],
+                'Packages': packages,
+            })
+        elif 'ProductType' in extended_meta_info:
+            product_type = extended_meta_info.pop('ProductType')
+            if product_type == 'macOS':
+                extended_meta_info.pop('AutoUpdate', None)
+                extended_meta_info.pop('ProductVersion')
+                assert not extended_meta_info
+
+                macOS.append({
+                    'Identifier': identifier,
+                    'PostDate': post_date,
+                    'DistributionURL': distributions['English'],
+                    'Packages': packages,
+                })
+            elif product_type == 'bridgeOS':
+                version = extended_meta_info.pop('BridgeOSPredicateProductOrdering')
+                extended_meta_info.pop('BridgeOSSoftwareUpdateEventRecordingServiceURL')
+                extended_meta_info.pop('ProductVersion')
+                assert not extended_meta_info
+
+                bridgeOS.append({
+                    'Version': version,
+                    'Identifier': identifier,
+                    'PostDate': post_date,
+                    'Packages': packages,
+                })
+            else:
+                raise NotImplementedError(f'unknown ProductType {product_type}')
+    return macOS, bridgeOS
+
 
 def get_branches(repo, token=None):
     branches = set()
@@ -73,7 +104,6 @@ def new_branch(item):
     subprocess.run(['git', 'push', 'origin', _id], check=True)
 
 def main():
-    repo = 'zhangyoufu/macOS'
     token = os.environ['GITHUB_PERSONAL_ACCESS_TOKEN']
 
     logging.basicConfig(
@@ -84,28 +114,45 @@ def main():
     # accept a file list separated by NUL from stdin
     file_list = sys.stdin.detach().detach().readall().rstrip(b'\0').split(b'\0')
 
-    # parse catalog indexes, filter out known builds
-    todo = []
     logging.info('Getting list of branches...')
-    branches = get_branches(repo=repo, token=token)
+    branches  = get_branches(repo='zhangyoufu/macOS', token=token)
+    branches |= get_branches(repo='zhangyoufu/bridgeOS', token=token)
+
+    # parse catalog indexes, filter out known builds
+    macOS = []
+    bridgeOS = []
     for path in file_list:
-        for item in parse_catalog(path):
+        _macOS, _bridgeOS = parse_catalog(path)
+        for item in _macOS:
             _id = item['Identifier']
             if _id not in branches:
-                todo.append(item)
+                macOS.append(item)
+                branches.add(_id)
+        for item in _bridgeOS:
+            _id = item['Identifier']
+            if _id not in branches:
+                bridgeOS.append(item)
                 branches.add(_id)
 
-    if not todo:
-        return
+    if macOS:
+        tmpdir = tempfile.TemporaryDirectory()
+        try:
+            os.chdir(tmpdir.name)
+            subprocess.run(['git', 'clone', '--depth', '1', f'https://{token}@github.com/zhangyoufu/macOS.git', '.'], check=True)
+            for item in macOS:
+                new_branch(item)
+        finally:
+            tmpdir.cleanup()
 
-    tmpdir = tempfile.TemporaryDirectory()
-    try:
-        os.chdir(tmpdir.name)
-        subprocess.run(['git', 'clone', '--depth', '1', f'https://{token}@github.com/{repo}.git', '.'], check=True)
-        for item in todo:
-            new_branch(item)
-    finally:
-        tmpdir.cleanup()
+    if bridgeOS:
+        tmpdir = tempfile.TemporaryDirectory()
+        try:
+            os.chdir(tmpdir.name)
+            subprocess.run(['git', 'clone', '--depth', '1', f'https://{token}@github.com/zhangyoufu/bridgeOS.git', '.'], check=True)
+            for item in bridgeOS:
+                new_branch(item)
+        finally:
+            tmpdir.cleanup()
 
 if __name__ == '__main__':
     main()
