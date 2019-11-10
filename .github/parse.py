@@ -95,7 +95,7 @@ def get_branches(repo, token=None):
 def new_branch(item):
     _id = item.pop('Identifier')
     logging.info(f'Processing {_id}...')
-    subprocess.run(['git', 'checkout', 'master'], check=True)
+    subprocess.run(['git', 'checkout', 'template'], check=True)
     subprocess.run(['git', 'switch', '-c', _id], check=True)
     with open('product.json', 'w') as f:
         json.dump(item, f, indent=2)
@@ -138,7 +138,7 @@ def main():
         tmpdir = tempfile.TemporaryDirectory()
         try:
             os.chdir(tmpdir.name)
-            subprocess.run(['git', 'clone', '--depth', '1', f'https://{token}@github.com/zhangyoufu/macOS.git', '.'], check=True)
+            subprocess.run(['git', 'clone', '--branch', 'template', '--depth', '1', f'https://{token}@github.com/zhangyoufu/macOS.git', '.'], check=True)
             for item in macOS:
                 new_branch(item)
         finally:
@@ -148,7 +148,7 @@ def main():
         tmpdir = tempfile.TemporaryDirectory()
         try:
             os.chdir(tmpdir.name)
-            subprocess.run(['git', 'clone', '--depth', '1', f'https://{token}@github.com/zhangyoufu/bridgeOS.git', '.'], check=True)
+            subprocess.run(['git', 'clone', '--branch', 'template', '--depth', '1', f'https://{token}@github.com/zhangyoufu/bridgeOS.git', '.'], check=True)
             for item in bridgeOS:
                 new_branch(item)
         finally:
