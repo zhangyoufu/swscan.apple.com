@@ -22,7 +22,7 @@ def main():
     process_all()
 
 def process_all():
-    for line in open('.github/url.txt'):
+    for line in open('url.txt'):
         ## skip comment line
         if line.startswith('#'): continue
 
