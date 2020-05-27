@@ -4,9 +4,19 @@ on:
   - cron: '*/5 * * * *'
 
 jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - name: Synchronize between workflow runs
+      uses: softprops/turnstyle@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   cron:
     if: github.ref == 'refs/heads/master'
+    needs: sync
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
     - uses: actions/checkout@v2
       with:
