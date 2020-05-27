@@ -31,7 +31,7 @@ def parse_catalog(path):
         server_metadata_url = product.pop('ServerMetadataURL', None)
         extended_meta_info = product.pop('ExtendedMetaInfo')
         product.pop('State', None) # State: ramped
-        assert not product
+        assert not product, product
 
         identifier = re.search(r'/content/downloads/\d{2}/\d{2}/[^/]*?/([0-9a-z]{34})/', server_metadata_url).group(1)
 
@@ -122,6 +122,7 @@ def main():
     macOS = []
     bridgeOS = []
     for path in file_list:
+        logging.info(f'Parsing {path}')
         _macOS, _bridgeOS = parse_catalog(path)
         for item in _macOS:
             _id = item['Identifier']
