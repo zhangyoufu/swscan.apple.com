@@ -31,6 +31,7 @@ def parse_catalog(path):
         server_metadata_url = product.pop('ServerMetadataURL', None)
         extended_meta_info = product.pop('ExtendedMetaInfo')
         product.pop('State', None) # State: ramped
+        product.pop('DeferredSUEnablementDate', None) # DeferredSUEnablementDate: 2020-03-24T07:00:00Z
         assert not product, product
 
         identifier = re.search(r'/content/downloads/\d{2}/\d{2}/[^/]*?/([0-9a-z]{34})/', server_metadata_url).group(1)
