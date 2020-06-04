@@ -13,6 +13,9 @@ def parse_catalog(path):
     with open(path, 'rb') as f:
         catalog = plistlib.load(f)
 
+    if catalog == {}:
+        return [], []
+
     assert catalog.pop('CatalogVersion') == 2
     catalog.pop('ApplePostURL')
     catalog.pop('IndexDate')
