@@ -31,13 +31,14 @@ def parse_catalog(path):
         post_date = product.pop('PostDate').isoformat() + 'Z'
         distributions = product.pop('Distributions')
         packages = product.pop('Packages')
-        server_metadata_url = product.pop('ServerMetadataURL', None)
         extended_meta_info = product.pop('ExtendedMetaInfo')
-        product.pop('State', None) # State: ramped
         product.pop('DeferredSUEnablementDate', None) # DeferredSUEnablementDate: 2020-03-24T07:00:00Z
+        product.pop('ServerMetadataURL', None) # not available for macOS1016Seed1
+        product.pop('State', None) # State: ramped
         assert not product, product
 
-        identifier = re.search(r'/content/downloads/\d{2}/\d{2}/[^/]*?/([0-9a-z]{34})/', server_metadata_url).group(1)
+        distribution_url = distributions['English']
+        identifier = re.search(r'/content/downloads/\d{2}/\d{2}/[^/]*?/([0-9a-z]{34})/', distribution_url).group(1)
 
         if 'InstallAssistantPackageIdentifiers' in extended_meta_info:
             ia_package_identifiers = extended_meta_info.pop('InstallAssistantPackageIdentifiers')
@@ -45,12 +46,16 @@ def parse_catalog(path):
 
             assert ia_package_identifiers.pop('InstallInfo') == 'com.apple.plist.InstallInfo'
             ia_package_identifiers.pop('OSInstall', None)
+            ia_package_identifiers.pop('SharedSupport', None) # com.apple.pkg.InstallAssistant.Seed.macOS1016Seed1
+            ia_package_identifiers.pop('Info', None) # com.apple.plist.Info
+            ia_package_identifiers.pop('UpdateBrain', None) # com.apple.zip.UpdateBrain
+            ia_package_identifiers.pop('BuildManifest', None) # com.apple.plist.BuildManifest
             assert not ia_package_identifiers
 
             macOS.append({
                 'Identifier': identifier,
                 'PostDate': post_date,
-                'DistributionURL': distributions['English'],
+                'DistributionURL': distribution_url,
                 'Packages': packages,
             })
         elif 'ProductType' in extended_meta_info:
@@ -63,7 +68,7 @@ def parse_catalog(path):
                 macOS.append({
                     'Identifier': identifier,
                     'PostDate': post_date,
-                    'DistributionURL': distributions['English'],
+                    'DistributionURL': distribution_url,
                     'Packages': packages,
                 })
             elif product_type == 'bridgeOS':
