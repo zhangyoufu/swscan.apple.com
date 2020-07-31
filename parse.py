@@ -124,7 +124,7 @@ def main():
     file_list = sys.stdin.detach().detach().readall().rstrip(b'\0').split(b'\0')
 
     logging.info('Getting list of branches...')
-    branches  = get_branches(repo='zhangyoufu/macOS', token=token)
+    branches  = get_branches(repo='zhangyoufu/macOS-private', token=token)
     branches |= get_branches(repo='zhangyoufu/bridgeOS', token=token)
 
     # parse catalog indexes, filter out known builds
@@ -148,7 +148,7 @@ def main():
         tmpdir = tempfile.TemporaryDirectory()
         try:
             os.chdir(tmpdir.name)
-            subprocess.run(['git', 'clone', '--branch', 'template', '--depth', '1', f'https://{token}@github.com/zhangyoufu/macOS.git', '.'], check=True)
+            subprocess.run(['git', 'clone', '--branch', 'template', '--depth', '1', f'https://{token}@github.com/zhangyoufu/macOS-private.git', '.'], check=True)
             for item in macOS:
                 new_branch(item)
         finally:
