@@ -88,7 +88,7 @@ https://swscan.apple.com/content/catalogs/others/index-10.15seed-10.15-10.14-10.
 https://swscan.apple.com/content/catalogs/others/index-10.15customerseed.merged-1.sucatalog
 https://swscan.apple.com/content/catalogs/others/index-10.15customerseed-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog
 
-# 10.16 (?)
+# 10.16 (Big Sur)
 https://swscan.apple.com/content/catalogs/others/index-10.16.merged-1.sucatalog
 https://swscan.apple.com/content/catalogs/others/index-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog
 https://swscan.apple.com/content/catalogs/others/index-10.16beta.merged-1.sucatalog
@@ -97,3 +97,5 @@ https://swscan.apple.com/content/catalogs/others/index-10.16seed.merged-1.sucata
 https://swscan.apple.com/content/catalogs/others/index-10.16seed-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog
 https://swscan.apple.com/content/catalogs/others/index-10.16customerseed.merged-1.sucatalog
 https://swscan.apple.com/content/catalogs/others/index-10.16customerseed-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog
+https://swscan.apple.com/content/catalogs/others/index-11.merged-1.sucatalog
+https://swscan.apple.com/content/catalogs/others/index-11-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog
