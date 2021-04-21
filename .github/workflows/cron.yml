@@ -24,7 +24,7 @@ jobs:
     - name: diff, trigger downstream, commit
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
+        GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets._GITHUB_PERSONAL_ACCESS_TOKEN }}
       run: |
         if [ -n "$(git status --porcelain)" ]; then
         	git config --global user.name 'GitHub Actions'
