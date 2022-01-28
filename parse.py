@@ -83,6 +83,8 @@ def parse_catalog(path):
                     'PostDate': post_date,
                     'Packages': packages,
                 })
+            elif product_type == 'Safari':
+                pass
             else:
                 raise NotImplementedError(f'unknown ProductType {product_type}')
     return macOS, bridgeOS
