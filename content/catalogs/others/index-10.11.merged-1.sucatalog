@@ -7,7 +7,7 @@
         <key>ApplePostURL</key>
         <string></string>
         <key>IndexDate</key>
-        <date>2022-06-07T20:50:48Z</date>
+        <date>2022-06-09T17:15:10Z</date>
         <key>Products</key>
         <dict>
             <key>061-1955</key>
@@ -941,20 +941,20 @@
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.sv.dist</string>
                     <key>fi</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.fi.dist</string>
-                    <key>pt</key>
-                    <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.pt.dist</string>
                     <key>ko</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.ko.dist</string>
+                    <key>pt</key>
+                    <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.pt.dist</string>
                     <key>German</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.German.dist</string>
                     <key>Japanese</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.Japanese.dist</string>
                     <key>English</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.English.dist</string>
-                    <key>zh_TW</key>
-                    <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.zh_TW.dist</string>
                     <key>French</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.French.dist</string>
+                    <key>zh_TW</key>
+                    <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.zh_TW.dist</string>
                     <key>Spanish</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.Spanish.dist</string>
                     <key>zh_CN</key>
@@ -16200,31 +16200,6 @@
                     <string>https://swdist.apple.com/content/downloads/52/19/002-82274-A_F4JM1WNK4I/0vg4unasc8znbhgmp6rx4s60998x1t96i5/002-82274.English.dist</string>
                 </dict>
             </dict>
-            <key>002-82277</key>
-            <dict>
-                <key>ServerMetadataURL</key>
-                <string>http://swcdn.apple.com/content/downloads/04/61/002-82277-A_MTJQSXRKTS/6x1ewe4vnfh9s8ita9iox8m3e7ko1ll1qq/XProtectPlistConfigData_10_14.smd</string>
-                <key>Packages</key>
-                <array>
-                    <dict>
-                        <key>Digest</key>
-                        <string>79018ccdb788595d427a5d9e74c4c31ed37873af</string>
-                        <key>Size</key>
-                        <integer>971012</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/04/61/002-82277-A_MTJQSXRKTS/6x1ewe4vnfh9s8ita9iox8m3e7ko1ll1qq/XProtectPlistConfigData_10_14.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/04/61/002-82277-A_MTJQSXRKTS/6x1ewe4vnfh9s8ita9iox8m3e7ko1ll1qq/XProtectPlistConfigData_10_14.pkg</string>
-                    </dict>
-                </array>
-                <key>PostDate</key>
-                <date>2022-05-12T17:17:45Z</date>
-                <key>Distributions</key>
-                <dict>
-                    <key>English</key>
-                    <string>https://swdist.apple.com/content/downloads/04/61/002-82277-A_MTJQSXRKTS/6x1ewe4vnfh9s8ita9iox8m3e7ko1ll1qq/002-82277.English.dist</string>
-                </dict>
-            </dict>
             <key>002-77755</key>
             <dict>
                 <key>ServerMetadataURL</key>
@@ -16544,6 +16519,132 @@
                 <dict>
                     <key>English</key>
                     <string>https://swdist.apple.com/content/downloads/16/08/012-06873-A_636SHHRD4L/528ojpmw00mulgfjsz9k50modkj31a9v0p/012-06873.English.dist</string>
+                </dict>
+            </dict>
+            <key>012-06868</key>
+            <dict>
+                <key>ServerMetadataURL</key>
+                <string>http://swcdn.apple.com/content/downloads/57/06/012-06868-A_IHJQP99H8Z/tdkkifguaizw52dkcx4baq96ry3xqi6pes/XProtectPlistConfigData_10_14.smd</string>
+                <key>Packages</key>
+                <array>
+                    <dict>
+                        <key>Digest</key>
+                        <string>0dc16cf660801c729c0e5315a646ddb5bcb817c9</string>
+                        <key>Size</key>
+                        <integer>971317</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/57/06/012-06868-A_IHJQP99H8Z/tdkkifguaizw52dkcx4baq96ry3xqi6pes/XProtectPlistConfigData_10_14.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/57/06/012-06868-A_IHJQP99H8Z/tdkkifguaizw52dkcx4baq96ry3xqi6pes/XProtectPlistConfigData_10_14.pkg</string>
+                    </dict>
+                </array>
+                <key>PostDate</key>
+                <date>2022-06-09T17:01:58Z</date>
+                <key>Distributions</key>
+                <dict>
+                    <key>English</key>
+                    <string>https://swdist.apple.com/content/downloads/57/06/012-06868-A_IHJQP99H8Z/tdkkifguaizw52dkcx4baq96ry3xqi6pes/012-06868.English.dist</string>
+                </dict>
+            </dict>
+            <key>012-22320</key>
+            <dict>
+                <key>DeferredSUEnablementDate</key>
+                <date>2022-06-09T07:00:00Z</date>
+                <key>State</key>
+                <string>ramped</string>
+                <key>Packages</key>
+                <array>
+                    <dict>
+                        <key>Size</key>
+                        <integer>2001085</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/UpdateBrain.zip.integrityDataV1</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/UpdateBrain.zip</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>104</integer>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>8635ddf2242747de0fdeff31d13cdabecda0f476</string>
+                        <key>Size</key>
+                        <integer>2633156</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/MajorOSInfo.pkg.integrityDataV1</string>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/MajorOSInfo.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/MajorOSInfo.pkg</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>104</integer>
+                    </dict>
+                    <dict>
+                        <key>Size</key>
+                        <integer>188</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/InstallInfo.plist.integrityDataV1</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/InstallInfo.plist</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>104</integer>
+                    </dict>
+                    <dict>
+                        <key>Size</key>
+                        <integer>5779</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/Info.plist.integrityDataV1</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/Info.plist</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>104</integer>
+                    </dict>
+                    <dict>
+                        <key>Size</key>
+                        <integer>1650326</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/BuildManifest.plist.integrityDataV1</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/BuildManifest.plist</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>104</integer>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>5124be905954b612bf4c6b7d42ffc8ae5c84d2e2</string>
+                        <key>Size</key>
+                        <integer>12412747215</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/InstallAssistant.pkg.integrityDataV1</string>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/InstallAssistant.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/InstallAssistant.pkg</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>42692</integer>
+                    </dict>
+                </array>
+                <key>ExtendedMetaInfo</key>
+                <dict>
+                    <key>InstallAssistantPackageIdentifiers</key>
+                    <dict>
+                        <key>SharedSupport</key>
+                        <string>com.apple.pkg.InstallAssistant.macOSBigSur</string>
+                        <key>InstallInfo</key>
+                        <string>com.apple.plist.InstallInfo</string>
+                        <key>Info</key>
+                        <string>com.apple.plist.Info</string>
+                        <key>UpdateBrain</key>
+                        <string>com.apple.zip.UpdateBrain</string>
+                        <key>BuildManifest</key>
+                        <string>com.apple.plist.BuildManifest</string>
+                    </dict>
+                </dict>
+                <key>PostDate</key>
+                <date>2022-06-09T17:09:36Z</date>
+                <key>Distributions</key>
+                <dict>
+                    <key>English</key>
+                    <string>https://swdist.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/012-22320.English.dist</string>
                 </dict>
             </dict>
         </dict>

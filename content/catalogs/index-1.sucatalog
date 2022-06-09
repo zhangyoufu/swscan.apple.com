@@ -7,7 +7,7 @@
         <key>ApplePostURL</key>
         <string></string>
         <key>IndexDate</key>
-        <date>2022-06-07T22:21:36Z</date>
+        <date>2022-06-09T21:38:47Z</date>
         <key>Products</key>
         <dict>
             <key>061-1955</key>
@@ -941,20 +941,20 @@
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.sv.dist</string>
                     <key>fi</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.fi.dist</string>
-                    <key>pt</key>
-                    <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.pt.dist</string>
                     <key>ko</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.ko.dist</string>
+                    <key>pt</key>
+                    <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.pt.dist</string>
                     <key>German</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.German.dist</string>
                     <key>Japanese</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.Japanese.dist</string>
                     <key>English</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.English.dist</string>
-                    <key>zh_TW</key>
-                    <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.zh_TW.dist</string>
                     <key>French</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.French.dist</string>
+                    <key>zh_TW</key>
+                    <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.zh_TW.dist</string>
                     <key>Spanish</key>
                     <string>https://swdist.apple.com/content/downloads/02/37/061-2585/LZTrdD3pJrWfGqzv5ZsPFYkMP82nmnV6Nz/061-2585.Spanish.dist</string>
                     <key>zh_CN</key>

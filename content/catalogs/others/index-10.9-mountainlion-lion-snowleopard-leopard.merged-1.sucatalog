@@ -7,7 +7,7 @@
         <key>ApplePostURL</key>
         <string></string>
         <key>IndexDate</key>
-        <date>2022-06-07T20:57:42Z</date>
+        <date>2022-06-09T17:11:08Z</date>
         <key>Products</key>
         <dict>
             <key>061-5569</key>
@@ -854,10 +854,10 @@
                     <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.no.dist.gz</string>
                     <key>Italian</key>
                     <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.Italian.dist.gz</string>
-                    <key>ru</key>
-                    <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.ru.dist.gz</string>
                     <key>fi</key>
                     <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.fi.dist.gz</string>
+                    <key>ru</key>
+                    <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.ru.dist.gz</string>
                     <key>pt</key>
                     <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.pt.dist.gz</string>
                     <key>hr</key>
@@ -904,12 +904,12 @@
                     <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.zh_CN.dist.gz</string>
                     <key>pl</key>
                     <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.pl.dist.gz</string>
-                    <key>ro</key>
-                    <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.ro.dist.gz</string>
                     <key>da</key>
                     <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.da.dist.gz</string>
                     <key>he</key>
                     <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.he.dist.gz</string>
+                    <key>ro</key>
+                    <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.ro.dist.gz</string>
                     <key>Dutch</key>
                     <string>https://swdist.apple.com/content/downloads/55/33/041-98142-A_E0LLWYPE6N/s68h4n5707xjx1xpvx0bg4tfc3p8e75h57/041-98142.Dutch.dist.gz</string>
                     <key>tr</key>
@@ -2854,13 +2854,13 @@
                 <array>
                     <dict>
                         <key>Digest</key>
-                        <string>3cd017f80c2ee5be320646769cc429d2802ea73f</string>
+                        <string>5556eadfb1790ae923d1f916d134a45ec86721d0</string>
                         <key>Size</key>
-                        <integer>165285</integer>
+                        <integer>1963417</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_CMFP0002.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO84.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_CMFP0002.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO84.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -2874,13 +2874,23 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>7f4906f43a9695f2de4544da47f1ac6aa9d65a7a</string>
+                        <string>37a2b7b51d5be33ba09a20517d8454c0615b49ad</string>
                         <key>Size</key>
-                        <integer>2045340</integer>
+                        <integer>6546849</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO89.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FCore.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO89.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FCore.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>0f505d2585abb0bf223fdcac214b43da8d0b0295</string>
+                        <key>Size</key>
+                        <integer>1643929</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO3N.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO3N.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -2891,6 +2901,16 @@
                         <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_SIconsLO86S.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_SIconsLO86S.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>be3dfe920846b587eee97a804897718147525509</string>
+                        <key>Size</key>
+                        <integer>2061721</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO85.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO85.pkg</string>
                     </dict>
                     <dict>
                         <key>Size</key>
@@ -2940,16 +2960,6 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>be3dfe920846b587eee97a804897718147525509</string>
-                        <key>Size</key>
-                        <integer>2061721</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO85.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO85.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
                         <string>60bac4989502b95db2f44c1ee5b4cf3d2c2fb336</string>
                         <key>Size</key>
                         <integer>1861029</integer>
@@ -2960,13 +2970,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>0f505d2585abb0bf223fdcac214b43da8d0b0295</string>
+                        <string>590743deaa454dbb2a7afa96108f3daa2ad64e2f</string>
                         <key>Size</key>
-                        <integer>1643929</integer>
+                        <integer>1947036</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO3N.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO88.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO3N.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO88.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -3000,16 +3010,6 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>48c02df9898826e63ffffa97bef121f9b36c5d65</string>
-                        <key>Size</key>
-                        <integer>1983899</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO86.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO86.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
                         <string>4868cdadcd95f9f9d3d2f80365168e336a860217</string>
                         <key>Size</key>
                         <integer>26006</integer>
@@ -3017,6 +3017,16 @@
                         <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_McnaccmCnLBDE7B.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_McnaccmCnLBDE7B.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>3cd017f80c2ee5be320646769cc429d2802ea73f</string>
+                        <key>Size</key>
+                        <integer>165285</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_CMFP0002.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_CMFP0002.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -3037,6 +3047,16 @@
                         <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_SImgParamCNCFR18.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_SImgParamCNCFR18.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>251786abec9cd0438d9f13f9422dd4bb34f5e452</string>
+                        <key>Size</key>
+                        <integer>6415779</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_MCore.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_MCore.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -3087,16 +3107,6 @@
                         <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_MProfilesCNLD80.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_MProfilesCNLD80.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
-                        <string>590743deaa454dbb2a7afa96108f3daa2ad64e2f</string>
-                        <key>Size</key>
-                        <integer>1947036</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO88.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO88.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -3156,23 +3166,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>251786abec9cd0438d9f13f9422dd4bb34f5e452</string>
+                        <string>a6fbe5d808c46d9c7b84db67a6873ca7d75fe5f2</string>
                         <key>Size</key>
-                        <integer>6415779</integer>
+                        <integer>1181078</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_MCore.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO3O.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_MCore.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
-                        <string>5556eadfb1790ae923d1f916d134a45ec86721d0</string>
-                        <key>Size</key>
-                        <integer>1963417</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO84.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO84.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO3O.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -3193,6 +3193,16 @@
                         <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_MIconsLO86.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_MIconsLO86.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>48c02df9898826e63ffffa97bef121f9b36c5d65</string>
+                        <key>Size</key>
+                        <integer>1983899</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO86.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO86.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -3246,23 +3256,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>37a2b7b51d5be33ba09a20517d8454c0615b49ad</string>
+                        <string>7f4906f43a9695f2de4544da47f1ac6aa9d65a7a</string>
                         <key>Size</key>
-                        <integer>6546849</integer>
+                        <integer>2045340</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FCore.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO89.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FCore.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
-                        <string>4d6f51b992d5e02d1bebb2cb65ea55845e0f5b4f</string>
-                        <key>Size</key>
-                        <integer>152989</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_CMFP0001.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_CMFP0001.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO89.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -3316,6 +3316,26 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
+                        <string>4d6f51b992d5e02d1bebb2cb65ea55845e0f5b4f</string>
+                        <key>Size</key>
+                        <integer>152989</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_CMFP0001.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_CMFP0001.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>ad93f92a3d54b649a5b86bca26513ad0ac4758d4</string>
+                        <key>Size</key>
+                        <integer>2110879</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO87.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO87.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
                         <string>3851591c5d2c6b9eff52df4facbff9058c8fa516</string>
                         <key>Size</key>
                         <integer>87437</integer>
@@ -3346,16 +3366,6 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>ad93f92a3d54b649a5b86bca26513ad0ac4758d4</string>
-                        <key>Size</key>
-                        <integer>2110879</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO87.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO87.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
                         <string>ea765f5359e10b2839f662ea5a63cbac30209e9f</string>
                         <key>Size</key>
                         <integer>2172320</integer>
@@ -3363,16 +3373,6 @@
                         <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_SImgParamCNCFR17.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_SImgParamCNCFR17.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
-                        <string>a6fbe5d808c46d9c7b84db67a6873ca7d75fe5f2</string>
-                        <key>Size</key>
-                        <integer>1181078</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO3O.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/49/02/041-89037-A_SQPSF3Q6DX/fvm0mvdi5s7r23t4hjci7x1e8cuip1c8it/CanonLaser_FIconsLO3O.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -3465,6 +3465,16 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
+                        <string>4a6bf686d0ffbf6ad0ba12bc9056b1d131844a7c</string>
+                        <key>Size</key>
+                        <integer>140690</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon001.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon001.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
                         <string>d8f74b49d618c924a5564681e4b92629aaa48f2b</string>
                         <key>Size</key>
                         <integer>4793759</integer>
@@ -3532,16 +3542,6 @@
                         <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_IJP07WW005.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_IJP07WW005.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
-                        <string>6faf4126c5dbe3482b03ccf428a25cecbb172717</string>
-                        <key>Size</key>
-                        <integer>1377694</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon011.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon011.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -3955,13 +3955,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>71394dc135ad1a05dce3200bf877754f6165e1e3</string>
+                        <string>57db630fef10e44990d1e81da870a00031257417</string>
                         <key>Size</key>
-                        <integer>517520</integer>
+                        <integer>1127839</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon024.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon028.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon024.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon028.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -4022,6 +4022,16 @@
                         <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_IJP14JP002.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_IJP14JP002.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>9bc47d9128a9315bed6bab9454f4a1df78406cef</string>
+                        <key>Size</key>
+                        <integer>1754528</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon013.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon013.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -4115,13 +4125,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>10cef197f13321203238d72e06123b83b1b96f2e</string>
+                        <string>420504a3d454134d01b4d362a62c5ffd94670f7c</string>
                         <key>Size</key>
-                        <integer>275877</integer>
+                        <integer>173474</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon004.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon007.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon004.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon007.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -4275,16 +4285,6 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>dd6333df0f4f9db07cb9e6de9810dc0ef69761dd</string>
-                        <key>Size</key>
-                        <integer>3179938</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon012.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon012.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
                         <string>ecb7bd2b1e64264944449621292ed5ade0a18282</string>
                         <key>Size</key>
                         <integer>4879780</integer>
@@ -4425,6 +4425,16 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
+                        <string>492459c3eda177169f03d8cff10c7b7248eacff8</string>
+                        <key>Size</key>
+                        <integer>1275294</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon010.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon010.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
                         <string>bcf16ac4980b8b4428257163373b96e81a75ce3c</string>
                         <key>Size</key>
                         <integer>26015</integer>
@@ -4535,13 +4545,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>57db630fef10e44990d1e81da870a00031257417</string>
+                        <string>f5ea1d13ea5b1d40ddcc3eac5f7c450e0e2dfe9d</string>
                         <key>Size</key>
-                        <integer>1127839</integer>
+                        <integer>1840545</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon028.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon026.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon028.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon026.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -4575,16 +4585,6 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>4a6bf686d0ffbf6ad0ba12bc9056b1d131844a7c</string>
-                        <key>Size</key>
-                        <integer>140690</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon001.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon001.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
                         <string>9e8356917c01cee7c725f752794687663066fb16</string>
                         <key>Size</key>
                         <integer>79243</integer>
@@ -4615,13 +4615,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>6933329c8393d2b72649b7d0c1e4944b449d11d6</string>
+                        <string>d9c91b67ed89b6b843bf15ea6f78fca317bb94d5</string>
                         <key>Size</key>
-                        <integer>943522</integer>
+                        <integer>808350</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon027.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon025.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon027.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon025.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -5255,16 +5255,6 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>1c0932c50007c810269d5b85d40dff16c39f8d10</string>
-                        <key>Size</key>
-                        <integer>443807</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon015.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon015.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
                         <string>2a81a7862bbcab03347b2fa955dcd586c9c25a1d</string>
                         <key>Size</key>
                         <integer>415141</integer>
@@ -5405,16 +5395,6 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>ecd2c332e8eadf6a8d374128b7a65362bd678bab</string>
-                        <key>Size</key>
-                        <integer>1770909</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon023.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon023.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
                         <string>c3b8d913329adf6d3a0035512fa72885466b78ee</string>
                         <key>Size</key>
                         <integer>26142127</integer>
@@ -5432,6 +5412,26 @@
                         <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_IJP12JP001.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_IJP12JP001.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>dd6333df0f4f9db07cb9e6de9810dc0ef69761dd</string>
+                        <key>Size</key>
+                        <integer>3179938</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon012.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon012.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>45860ae34ae43a2048be102437425d6af955fe1f</string>
+                        <key>Size</key>
+                        <integer>943517</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon014.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon014.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -5512,6 +5512,16 @@
                         <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon286.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon286.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>94086a406d93ecf6fd57731a1bc8d66890b29693</string>
+                        <key>Size</key>
+                        <integer>1295774</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon016.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon016.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -5735,13 +5745,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>441b594ca0064e350e15cfe8b7d49a863993b81c</string>
+                        <string>5e9e5603c6048b89f9ec9efe5e8e9e20848ed50f</string>
                         <key>Size</key>
-                        <integer>312740</integer>
+                        <integer>329123</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon006.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon005.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon006.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon005.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -5935,13 +5945,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>492459c3eda177169f03d8cff10c7b7248eacff8</string>
+                        <string>6faf4126c5dbe3482b03ccf428a25cecbb172717</string>
                         <key>Size</key>
-                        <integer>1275294</integer>
+                        <integer>1377694</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon010.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon011.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon010.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon011.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -5992,16 +6002,6 @@
                         <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon115.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon115.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
-                        <string>45860ae34ae43a2048be102437425d6af955fe1f</string>
-                        <key>Size</key>
-                        <integer>943517</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon014.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon014.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -6445,13 +6445,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>420504a3d454134d01b4d362a62c5ffd94670f7c</string>
+                        <string>441b594ca0064e350e15cfe8b7d49a863993b81c</string>
                         <key>Size</key>
-                        <integer>173474</integer>
+                        <integer>312740</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon007.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon006.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon007.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon006.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -6755,16 +6755,6 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>368e0106b799c167c49aeab0bfd81a8d93cba4b1</string>
-                        <key>Size</key>
-                        <integer>1349020</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon009.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon009.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
                         <string>9a31c3a75a54bb36afb3e5e8bc5271b9fc23306c</string>
                         <key>Size</key>
                         <integer>1590691</integer>
@@ -6882,6 +6872,16 @@
                         <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_IJP11WW002.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_IJP11WW002.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>368e0106b799c167c49aeab0bfd81a8d93cba4b1</string>
+                        <key>Size</key>
+                        <integer>1349020</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon009.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon009.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -7015,13 +7015,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>f5ea1d13ea5b1d40ddcc3eac5f7c450e0e2dfe9d</string>
+                        <string>71394dc135ad1a05dce3200bf877754f6165e1e3</string>
                         <key>Size</key>
-                        <integer>1840545</integer>
+                        <integer>517520</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon026.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon024.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon026.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon024.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -7431,6 +7431,16 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
+                        <string>10cef197f13321203238d72e06123b83b1b96f2e</string>
+                        <key>Size</key>
+                        <integer>275877</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon004.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon004.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
                         <string>e8df28e04c6f8e7f3212603620f0a24741d0a478</string>
                         <key>Size</key>
                         <integer>25712038</integer>
@@ -7681,16 +7691,6 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>cae7dd79aaedc105744d06d1ee6daf57cbb7a94a</string>
-                        <key>Size</key>
-                        <integer>198049</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon002.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon002.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
                         <string>295d073f687202aeb5e0ac1637d589b3b48642d4</string>
                         <key>Size</key>
                         <integer>3425703</integer>
@@ -7828,6 +7828,16 @@
                         <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon160.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon160.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>6933329c8393d2b72649b7d0c1e4944b449d11d6</string>
+                        <key>Size</key>
+                        <integer>943522</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon027.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon027.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -7971,16 +7981,6 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>9bc47d9128a9315bed6bab9454f4a1df78406cef</string>
-                        <key>Size</key>
-                        <integer>1754528</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon013.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon013.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
                         <string>c85071b656770df674bdd51eaa9a7a8d7a2330a3</string>
                         <key>Size</key>
                         <integer>640419</integer>
@@ -8041,13 +8041,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>d9c91b67ed89b6b843bf15ea6f78fca317bb94d5</string>
+                        <string>ecd2c332e8eadf6a8d374128b7a65362bd678bab</string>
                         <key>Size</key>
-                        <integer>808350</integer>
+                        <integer>1770909</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon025.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon023.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon025.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon023.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -8311,6 +8311,16 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
+                        <string>1c0932c50007c810269d5b85d40dff16c39f8d10</string>
+                        <key>Size</key>
+                        <integer>443807</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon015.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon015.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
                         <string>6e61b7a8dc47744c271b27fdf69734dde8a97225</string>
                         <key>Size</key>
                         <integer>3179930</integer>
@@ -8558,6 +8568,16 @@
                         <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon229.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon229.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>cae7dd79aaedc105744d06d1ee6daf57cbb7a94a</string>
+                        <key>Size</key>
+                        <integer>198049</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon002.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon002.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -8827,16 +8847,6 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>5e9e5603c6048b89f9ec9efe5e8e9e20848ed50f</string>
-                        <key>Size</key>
-                        <integer>329123</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon005.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon005.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
                         <string>5a1c23597bbef1e253d7d379ace7b965d54cfe8f</string>
                         <key>Size</key>
                         <integer>2356642</integer>
@@ -8964,16 +8974,6 @@
                         <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon343.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon343.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
-                        <string>94086a406d93ecf6fd57731a1bc8d66890b29693</string>
-                        <key>Size</key>
-                        <integer>1295774</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon016.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/EPSON_DriverCommon016.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -9304,16 +9304,16 @@
                     <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/041-89073.no.dist.gz</string>
                     <key>de</key>
                     <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/041-89073.de.dist.gz</string>
-                    <key>ru</key>
-                    <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/041-89073.ru.dist.gz</string>
                     <key>sv</key>
                     <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/041-89073.sv.dist.gz</string>
+                    <key>ru</key>
+                    <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/041-89073.ru.dist.gz</string>
                     <key>fi</key>
                     <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/041-89073.fi.dist.gz</string>
-                    <key>ko</key>
-                    <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/041-89073.ko.dist.gz</string>
                     <key>pt</key>
                     <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/041-89073.pt.dist.gz</string>
+                    <key>ko</key>
+                    <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/041-89073.ko.dist.gz</string>
                     <key>en</key>
                     <string>https://swdist.apple.com/content/downloads/22/02/041-89073-A_NDTH59T92J/ep4hdkvmb7o8o8jqugdokc6ukqndbs12ij/041-89073.en.dist.gz</string>
                     <key>it</key>
@@ -22074,16 +22074,6 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>9f0ea91f211ecc1dd2891a3d82288cb79d478689</string>
-                        <key>Size</key>
-                        <integer>58415</integer>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/FujiXerox_APBN.pkm</string>
-                        <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/FujiXerox_APBN.pkg</string>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
                         <string>ab1c7596a8cee5e5ded9e84757a922ed34a912c5</string>
                         <key>Size</key>
                         <integer>304964</integer>
@@ -22650,13 +22640,13 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
-                        <string>113d588d25a71d19ea47dcd4050932a20f8c2efb</string>
+                        <string>9f0ea91f211ecc1dd2891a3d82288cb79d478689</string>
                         <key>Size</key>
-                        <integer>303618</integer>
+                        <integer>58415</integer>
                         <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/FujiXerox_APCD.pkm</string>
+                        <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/FujiXerox_APBN.pkm</string>
                         <key>URL</key>
-                        <string>http://swcdn.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/FujiXerox_APCD.pkg</string>
+                        <string>http://swcdn.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/FujiXerox_APBN.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -22777,6 +22767,16 @@
                         <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/FujiXerox_HkgnPS2.pkm</string>
                         <key>URL</key>
                         <string>http://swcdn.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/FujiXerox_HkgnPS2.pkg</string>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>113d588d25a71d19ea47dcd4050932a20f8c2efb</string>
+                        <key>Size</key>
+                        <integer>303618</integer>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/FujiXerox_APCD.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/FujiXerox_APCD.pkg</string>
                     </dict>
                     <dict>
                         <key>Digest</key>
@@ -23153,12 +23153,12 @@
                     <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/041-84852.no.dist.gz</string>
                     <key>de</key>
                     <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/041-84852.de.dist.gz</string>
-                    <key>ru</key>
-                    <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/041-84852.ru.dist.gz</string>
-                    <key>fi</key>
-                    <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/041-84852.fi.dist.gz</string>
                     <key>sv</key>
                     <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/041-84852.sv.dist.gz</string>
+                    <key>fi</key>
+                    <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/041-84852.fi.dist.gz</string>
+                    <key>ru</key>
+                    <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/041-84852.ru.dist.gz</string>
                     <key>ko</key>
                     <string>https://swdist.apple.com/content/downloads/60/02/041-84852-A_QCLL9QUIT6/kznb725x5tyrhuxt0o2kw3pwo8wc7sjtlp/041-84852.ko.dist.gz</string>
                     <key>pt</key>
@@ -26174,6 +26174,107 @@
                 <dict>
                     <key>English</key>
                     <string>https://swdist.apple.com/content/downloads/23/40/002-86649-A_JXOOP81NHO/5m62yduo2nio7er4jg507azd8kif8xyk7m/002-86649.English.dist.gz</string>
+                </dict>
+            </dict>
+            <key>012-22320</key>
+            <dict>
+                <key>DeferredSUEnablementDate</key>
+                <date>2022-06-09T07:00:00Z</date>
+                <key>State</key>
+                <string>ramped</string>
+                <key>Packages</key>
+                <array>
+                    <dict>
+                        <key>Size</key>
+                        <integer>2001085</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/UpdateBrain.zip.integrityDataV1</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/UpdateBrain.zip</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>104</integer>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>8635ddf2242747de0fdeff31d13cdabecda0f476</string>
+                        <key>Size</key>
+                        <integer>2633156</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/MajorOSInfo.pkg.integrityDataV1</string>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/MajorOSInfo.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/MajorOSInfo.pkg</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>104</integer>
+                    </dict>
+                    <dict>
+                        <key>Size</key>
+                        <integer>188</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/InstallInfo.plist.integrityDataV1</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/InstallInfo.plist</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>104</integer>
+                    </dict>
+                    <dict>
+                        <key>Size</key>
+                        <integer>5779</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/Info.plist.integrityDataV1</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/Info.plist</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>104</integer>
+                    </dict>
+                    <dict>
+                        <key>Size</key>
+                        <integer>1650326</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/BuildManifest.plist.integrityDataV1</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/BuildManifest.plist</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>104</integer>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
+                        <string>5124be905954b612bf4c6b7d42ffc8ae5c84d2e2</string>
+                        <key>Size</key>
+                        <integer>12412747215</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/InstallAssistant.pkg.integrityDataV1</string>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/InstallAssistant.pkm</string>
+                        <key>URL</key>
+                        <string>http://swcdn.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/InstallAssistant.pkg</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>42692</integer>
+                    </dict>
+                </array>
+                <key>ExtendedMetaInfo</key>
+                <dict>
+                    <key>InstallAssistantPackageIdentifiers</key>
+                    <dict>
+                        <key>SharedSupport</key>
+                        <string>com.apple.pkg.InstallAssistant.macOSBigSur</string>
+                        <key>InstallInfo</key>
+                        <string>com.apple.plist.InstallInfo</string>
+                        <key>Info</key>
+                        <string>com.apple.plist.Info</string>
+                        <key>UpdateBrain</key>
+                        <string>com.apple.zip.UpdateBrain</string>
+                        <key>BuildManifest</key>
+                        <string>com.apple.plist.BuildManifest</string>
+                    </dict>
+                </dict>
+                <key>PostDate</key>
+                <date>2022-06-09T17:09:36Z</date>
+                <key>Distributions</key>
+                <dict>
+                    <key>English</key>
+                    <string>https://swdist.apple.com/content/downloads/44/35/012-22320-A_AOID136T4U/g33x1akyjzjpkpe7z0xn7nguoakljpe3a8/012-22320.English.dist.gz</string>
                 </dict>
             </dict>
         </dict>
