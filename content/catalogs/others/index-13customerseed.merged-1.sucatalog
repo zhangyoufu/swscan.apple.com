@@ -7,7 +7,7 @@
         <key>ApplePostURL</key>
         <string></string>
         <key>IndexDate</key>
-        <date>2022-10-18T17:16:20Z</date>
+        <date>2022-10-21T23:21:19Z</date>
         <key>Products</key>
         <dict>
             <key>061-1955</key>
@@ -8012,6 +8012,20 @@
                     </dict>
                     <dict>
                         <key>Digest</key>
+                        <string>772c97cc42cfc6838600f240b0343eb3fc08c135</string>
+                        <key>Size</key>
+                        <integer>1334773</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>https://swcdn.apple.com/content/downloads/22/62/012-84573-A_0XT3CECBH7/5x8w3dc7kezc43m4dzpvs8qnx8uoy2qatr/MajorOSInfo.pkg.integrityDataV1</string>
+                        <key>MetadataURL</key>
+                        <string>https://swdist.apple.com/content/downloads/22/62/012-84573-A_0XT3CECBH7/5x8w3dc7kezc43m4dzpvs8qnx8uoy2qatr/MajorOSInfo.pkm</string>
+                        <key>URL</key>
+                        <string>https://swcdn.apple.com/content/downloads/22/62/012-84573-A_0XT3CECBH7/5x8w3dc7kezc43m4dzpvs8qnx8uoy2qatr/MajorOSInfo.pkg</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>104</integer>
+                    </dict>
+                    <dict>
+                        <key>Digest</key>
                         <string>57a3fbd59e247faabd6b1f1d8805a1197551bfe5</string>
                         <key>Size</key>
                         <integer>12122503256</integer>
@@ -8026,35 +8040,21 @@
                     </dict>
                     <dict>
                         <key>Size</key>
-                        <integer>181</integer>
-                        <key>IntegrityDataURL</key>
-                        <string>https://swcdn.apple.com/content/downloads/22/62/012-84573-A_0XT3CECBH7/5x8w3dc7kezc43m4dzpvs8qnx8uoy2qatr/InstallInfo.plist.integrityDataV1</string>
-                        <key>URL</key>
-                        <string>https://swcdn.apple.com/content/downloads/22/62/012-84573-A_0XT3CECBH7/5x8w3dc7kezc43m4dzpvs8qnx8uoy2qatr/InstallInfo.plist</string>
-                        <key>IntegrityDataSize</key>
-                        <integer>104</integer>
-                    </dict>
-                    <dict>
-                        <key>Digest</key>
-                        <string>772c97cc42cfc6838600f240b0343eb3fc08c135</string>
-                        <key>Size</key>
-                        <integer>1334773</integer>
-                        <key>IntegrityDataURL</key>
-                        <string>https://swcdn.apple.com/content/downloads/22/62/012-84573-A_0XT3CECBH7/5x8w3dc7kezc43m4dzpvs8qnx8uoy2qatr/MajorOSInfo.pkg.integrityDataV1</string>
-                        <key>MetadataURL</key>
-                        <string>https://swdist.apple.com/content/downloads/22/62/012-84573-A_0XT3CECBH7/5x8w3dc7kezc43m4dzpvs8qnx8uoy2qatr/MajorOSInfo.pkm</string>
-                        <key>URL</key>
-                        <string>https://swcdn.apple.com/content/downloads/22/62/012-84573-A_0XT3CECBH7/5x8w3dc7kezc43m4dzpvs8qnx8uoy2qatr/MajorOSInfo.pkg</string>
-                        <key>IntegrityDataSize</key>
-                        <integer>104</integer>
-                    </dict>
-                    <dict>
-                        <key>Size</key>
                         <integer>5300</integer>
                         <key>IntegrityDataURL</key>
                         <string>https://swcdn.apple.com/content/downloads/22/62/012-84573-A_0XT3CECBH7/5x8w3dc7kezc43m4dzpvs8qnx8uoy2qatr/Info.plist.integrityDataV1</string>
                         <key>URL</key>
                         <string>https://swcdn.apple.com/content/downloads/22/62/012-84573-A_0XT3CECBH7/5x8w3dc7kezc43m4dzpvs8qnx8uoy2qatr/Info.plist</string>
+                        <key>IntegrityDataSize</key>
+                        <integer>104</integer>
+                    </dict>
+                    <dict>
+                        <key>Size</key>
+                        <integer>181</integer>
+                        <key>IntegrityDataURL</key>
+                        <string>https://swcdn.apple.com/content/downloads/22/62/012-84573-A_0XT3CECBH7/5x8w3dc7kezc43m4dzpvs8qnx8uoy2qatr/InstallInfo.plist.integrityDataV1</string>
+                        <key>URL</key>
+                        <string>https://swcdn.apple.com/content/downloads/22/62/012-84573-A_0XT3CECBH7/5x8w3dc7kezc43m4dzpvs8qnx8uoy2qatr/InstallInfo.plist</string>
                         <key>IntegrityDataSize</key>
                         <integer>104</integer>
                     </dict>
@@ -8133,16 +8133,16 @@
                 <date>2022-10-18T17:08:18Z</date>
                 <key>Distributions</key>
                 <dict>
-                    <key>hi</key>
-                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.hi.dist</string>
                     <key>no</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.no.dist</string>
+                    <key>hi</key>
+                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.hi.dist</string>
                     <key>Italian</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.Italian.dist</string>
-                    <key>ru</key>
-                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.ru.dist</string>
                     <key>fi</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.fi.dist</string>
+                    <key>ru</key>
+                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.ru.dist</string>
                     <key>pt</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.pt.dist</string>
                     <key>en_AU</key>
@@ -8155,12 +8155,12 @@
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.hu.dist</string>
                     <key>es_419</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.es_419.dist</string>
-                    <key>zh_HK</key>
-                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.zh_HK.dist</string>
-                    <key>zh_TW</key>
-                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.zh_TW.dist</string>
                     <key>French</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.French.dist</string>
+                    <key>zh_TW</key>
+                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.zh_TW.dist</string>
+                    <key>zh_HK</key>
+                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.zh_HK.dist</string>
                     <key>uk</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.uk.dist</string>
                     <key>sk</key>
@@ -8171,10 +8171,10 @@
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.id.dist</string>
                     <key>ca</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.ca.dist</string>
-                    <key>fr_CA</key>
-                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.fr_CA.dist</string>
                     <key>sv</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.sv.dist</string>
+                    <key>fr_CA</key>
+                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.fr_CA.dist</string>
                     <key>ko</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.ko.dist</string>
                     <key>ms</key>
@@ -8185,10 +8185,10 @@
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.Japanese.dist</string>
                     <key>cs</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.cs.dist</string>
-                    <key>ar</key>
-                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.ar.dist</string>
                     <key>English</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.English.dist</string>
+                    <key>ar</key>
+                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.ar.dist</string>
                     <key>vi</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.vi.dist</string>
                     <key>en_GB</key>
@@ -8199,14 +8199,14 @@
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.zh_CN.dist</string>
                     <key>pl</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.pl.dist</string>
-                    <key>Dutch</key>
-                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.Dutch.dist</string>
                     <key>ro</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.ro.dist</string>
-                    <key>da</key>
-                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.da.dist</string>
+                    <key>Dutch</key>
+                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.Dutch.dist</string>
                     <key>he</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.he.dist</string>
+                    <key>da</key>
+                    <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.da.dist</string>
                     <key>tr</key>
                     <string>https://swdist.apple.com/content/downloads/02/00/071-09020-A_IXBPNSGARO/z9v5h5vuu01m5io0p45bsw8ygf1c3gqmi5/071-09020.tr.dist</string>
                     <key>pt_PT</key>
