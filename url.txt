@@ -28,6 +28,8 @@ https://swscan.apple.com/content/catalogs/others/index-10.9.merged-1.sucatalog
 https://swscan.apple.com/content/catalogs/others/index-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog
 https://swscan.apple.com/content/catalogs/others/index-10.9seed.merged-1.sucatalog
 https://swscan.apple.com/content/catalogs/others/index-10.9seed-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog
+https://swscan.apple.com/content/catalogs/others/index-10.9publicseed.merged-1.sucatalog
+https://swscan.apple.com/content/catalogs/others/index-10.9publicseed-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog
 
 # 10.10 (Yosemite)
 https://swscan.apple.com/content/catalogs/others/index-10.10.merged-1.sucatalog
